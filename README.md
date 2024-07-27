@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning  Web-development,DSA and Ai-Ml
 - 💞️ I’m looking to collaborate on tech-programmers who are enthusiastic and eager to learn without any type of restriction 
 - 📫 How to reach me --> abhinavsingh.as1507@gmail.com
-- ⚡ Fun fact: ...I am a Chemical Engineer
+- ⚡ Fun fact: ...I am from  Chemical Engineering department
 
 
 
