@@ -3,12 +3,9 @@
 
 - 👀 I’m interested in Learning new techniques in depth without any restriction of field
 - 🌱 I’m currently learning  Web-development,DSA and Ai-Ml
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on tech-programmers who are enthusiastic and eager to learn without any type of restriction 
+- 📫 How to reach me --> abhinavsingh.as1507@gmail.com
+- ⚡ Fun fact: ...I am a Chemical Engineer
 
-<!---
-Abhinav072004/Abhinav072004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
