@@ -19,13 +19,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav072004&layout=compact&theme=shadow_green)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav072004&show_icons=true&theme=shadow_green)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abhinav072004&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+### 🔝 Top Contributed Repo
 
----
+[![IITISOC-24-WEB-19](https://github-readme-stats.vercel.app/api/pin/?username=TRISHANT131104&repo=IITISOC-24-WEB-19&theme=shadow_green)](https://github.com/TRISHANT131104/IITISOC-24-WEB-19)
 [![](https://visitcount.itsvg.in/api?id=Abhinav072004&icon=8&color=1)](https://visitcount.itsvg.in)
 
 
