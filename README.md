@@ -1,3 +1,5 @@
+            
+ <img align= "right" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Studying GIF">  
 # 💫 About Me:
 - 👋 Hi, I’m Abhinav Singh, Pre-Final Year Student at IIT-INDORE<br><br><br>- 👀 I’m interested in Learning new techniques in depth without any restriction of field<br>- 🌱 I’m currently learning  Web-development,DSA and BlockChain <br>- 💞️ I’m looking to collaborate on tech-programmers who are enthusiastic and eager to learn without any type of restriction <br>- 📫 How to reach me --> abhinavsingh.as1507@gmail.com -->ping me here.<br>- ⚡ Fun fact: ...I'm from  Chemical Engineering department
 
