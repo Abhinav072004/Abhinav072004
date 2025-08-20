@@ -1,7 +1,7 @@
             
  <img align= "right" width="400" height="290" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Studying GIF">  
  💫 About Me:
-- Hi, I’m Abhinav, Pre-Final-Year Student at IIT-INDORE<br>- 👀 Interested in Learning new Technologies.<br>- 🌱 I’m currently learning  Web-development,DSA and App-development. <br>- 💞️ I’m looking to collaborate on tech-programmers who are enthusiastic and eager to learn. <br><br>- 📫 How to reach me --> abhinavsingh.as1507@gmail.com -->ping me here.<br>- ⚡ Fun fact: ...I'm from  Chemical Engineering department.<br><br>
+- Hi, I’m Abhinav, Pre-Final-Year Student at IIT-INDORE<br>- 👀 Interested in Learning new Technologies.<br>- 🌱 I’m currently learning  Web-development,DSA and App-development. <br>- 💞️ I’m looking to collaborate with tech-programmers who are enthusiastic and eager to learn. <br><br>- 📫 How to reach me --> abhinavsingh.as1507@gmail.com -->ping me here.<br>- ⚡ Fun fact: ...I'm from  Chemical Engineering department.<br><br>
 
 
 ## 🌐 Socials:
